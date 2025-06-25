@@ -49,7 +49,7 @@ export default function App() {
         >
           <div className="flex items-center gap-4">
             <Avatar>
-              <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />
+              <AvatarImage src="/profile.jpg" alt="@victor" />
               <AvatarFallback>VN</AvatarFallback>
             </Avatar>
             <div>
@@ -68,24 +68,24 @@ export default function App() {
 
           <div className="flex gap-3 flex-wrap">
             <HoverButton
-              href="mailto:seu@email.com"
+              href="mailto:vgdsno@gmail.com"
               icon={<Mail className="w-5 h-5" />}
               text="Email"
             />
             <HoverButton
-              href="https://linkedin.com/in/seuusuario"
+              href="https://linkedin.com/in/victor-nogueira-a50697172"
               icon={<Linkedin className="w-5 h-5" />}
               text="LinkedIn"
             />
             <HoverButton
-              href="https://github.com/seuusuario"
+              href="https://github.com/victorgsnogueira"
               icon={<Github className="w-5 h-5" />}
               text="Github"
             />
             <HoverButton
-              href="https://wa.me/seunumero"
+              href="https://wa.me/5512981647076"
               icon={<Phone className="w-5 h-5" />}
-              text="Telefone"
+              text="Whatsapp"
             />
             <HoverButton
               href="/curriculo.pdf"
