@@ -16,7 +16,7 @@ const projects = [
     techs: ["Tecnologia", "Tecnologia"],
     description:
       "Descrição 1.",
-    link: "#",
+    link: "https://nemorise.netlify.app",
   },
   {
     title: "projeto 2",
