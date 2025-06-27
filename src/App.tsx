@@ -15,8 +15,8 @@ const projects = [
     title: "Nemori$e",
     techs: ["Next.js", "React", "TailwindCSS", "Shadcn", "TypeScript", "Supabase", "Netlify"],
     description:
-      "O Nemorise é seu aliado na organização financeira pessoal. Acompanhe entradas, saídas e metas com uma interface simples, responsiva e feita para quem quer controle sem complicação.",
-    link: "https://nemorise.netlify.app/",
+      "Descrição 1.",
+    link: "#",
   },
   {
     title: "projeto 2",
